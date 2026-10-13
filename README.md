@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mohit Chaurasiya | Full Stack Developer | MERN Stack & Django | Upcoming STEP Trainee @ ThoughtWorks
+Mohit Chaurasiya | Full Stack Developer | MERN Stack & Django | STEP Trainee @ ThoughtWorks
 
 
 ## 🌐 Socials:
